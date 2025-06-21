@@ -14,11 +14,6 @@
 - HTML5 / CSS3
 - Git e GitHub
 
-## 📚 Atualmente estudando:
-- Clean Code e boas práticas
-- Testes automatizados
-- Integração com APIs REST
-- Desenvolvimento Full Stack com Next.js
 
 [![eduardonavarro](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoNavarroXD&hide=html&title_color=783c00&text_color=af552e&bg_color=f8efd4)](https://github.com/anuraghazra/github-readme-stats)
 
