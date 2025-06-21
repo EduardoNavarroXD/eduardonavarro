@@ -20,7 +20,7 @@
 - Integração com APIs REST
 - Desenvolvimento Full Stack com Next.js
 
-[![eduardonavarro](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoNavarroXD-GITHUB&hide=html&title_color=783c00&text_color=af552e&bg_color=f8efd4)](https://github.com/anuraghazra/github-readme-stats)
+[![eduardonavarro](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoNavarroXD&hide=html&title_color=783c00&text_color=af552e&bg_color=f8efd4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
